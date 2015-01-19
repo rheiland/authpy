@@ -31,3 +31,10 @@ After some time, the full graph will be plotted (for what it's worth).
 
 Global, static authN graph.
 
+
+```
+In [2]: %run readG_hub_subgraph
+```
+![hub subgraph](/images/U6677_hub.png "hub subgraph")
+
+A hub as a subgraph.
