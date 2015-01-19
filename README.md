@@ -8,5 +8,5 @@ provides a valuable benchmark dataset for researchers in cybersecurity and/or gr
 
 We recommend using the [Anaconda Python 3](https://store.continuum.io/cshop/anaconda/) distribution.
 
-![matplotlib plot of histogram of time events](/images/mpl_authN_histo.png)
+![matplotlib plot of histogram of time events](/images/mpl_authN_histo.png "Interactive matplotlib window: pan, zoom, rubberband, etc")
 
