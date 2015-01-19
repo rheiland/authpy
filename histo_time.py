@@ -1,6 +1,4 @@
 """Display a histogram for the time events associated with a (binary) file.
-__author__= "Randy Heiland"
-__email__ = "heiland@iu.edu"
 """
 import numpy as np
 import matplotlib.pyplot as plt
