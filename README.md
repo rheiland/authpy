@@ -10,3 +10,5 @@ We recommend using the [Anaconda Python 3](https://store.continuum.io/cshop/anac
 
 ![matplotlib plot of histogram of time events](/images/mpl_authN_histo.png "Interactive matplotlib window: pan, zoom, rubberband, etc")
 
+Interactive matplotlib window with pan, zoom, rubberband buttons.
+
