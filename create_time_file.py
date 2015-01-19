@@ -2,7 +2,13 @@
 __author__= "Randy Heiland"
 __email__ = "heiland@iu.edu"
 """
+from __future__ import print_function
 import pandas as pd
+import sys
+
+if ((int(sys.version[0]) == 0) and (int(sys.version[2]) < 6)):
+  print("Warning: Python version < 2.6 will cause print stmt to fail")
+
 
 fname = 'lanl-auth-dataset-1'
 csize=1000000
