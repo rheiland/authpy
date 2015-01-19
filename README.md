@@ -12,3 +12,15 @@ We recommend using the [Anaconda Python 3](https://store.continuum.io/cshop/anac
 
 Interactive matplotlib window with pan, zoom, rubberband buttons.
 
+
+```
+$ ipython --matplotlib
+
+Python 3.4.2 |Anaconda 2.1.0 
+...
+Using matplotlib backend: MacOSX
+
+In [1]: %run readG_draw
+```
+After some time, the full graph will be plotted.
+
