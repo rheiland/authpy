@@ -32,8 +32,9 @@ In [1]: %run histo_time
 ```
 ![matplotlib plot of histogram of time events](/images/mpl_authN_histo.png "Interactive matplotlib window: pan, zoom, rubberband, etc")
 
-Interactive matplotlib window with pan, zoom, rubberband buttons.
----
+*Interactive matplotlib window with pan, zoom, rubberband buttons*
+
+***
 
 ```
 In [2]: %run readG_draw
@@ -42,19 +43,20 @@ After some time, the full graph will be plotted (for what it's worth).
 
 ![authN graph](/images/mpl_global_authN_graph.png "AuthN graph")
 
-Global, static authN graph.
+*Global, static authN graph*
+
+***
 
 But keep in mind, you can then interactively zoom in on regions of interest:
 
 ![authN graph](/images/mpl_zoom_authN_graph.png "AuthN graph, zoom")
 
----
-
+***
 
 ```
 In [2]: %run readG_hub_subgraph
 ```
 ![hub subgraph](/images/U6677_hub.png "hub subgraph")
 
-A hub as a subgraph.
----
+*A hub as a subgraph*
+***
