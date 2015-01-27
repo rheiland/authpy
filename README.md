@@ -42,17 +42,12 @@ In [2]: %run histo_time
 ```
 In [3]: %run readG_draw
 ```
-After some time, the full graph will be plotted (for what it's worth).
+After some time, the full graph will be plotted (below, for what it's worth). 
+You can then interactively pan and zoom in on regions of interest.
 
 ![authN graph](/images/mpl_global_authN_graph.png "AuthN graph")
 
 *Global, static authN graph*
-
-***
-
-But keep in mind, you can then interactively zoom in on regions of interest:
-
-![authN graph](/images/mpl_zoom_authN_graph.png "AuthN graph, zoom")
 
 ***
 
