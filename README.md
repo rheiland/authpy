@@ -18,7 +18,7 @@ We begin by generating two files from the original dataset:
 You have two choices for obtaining these two files. The script `create_time_graph_files.py` will
 generate both of them. However, it took about 8 hours on a laptop. The other choice is to simply
 download the graph file from [http://trustedci.org/data](http://trustedci.org/data) and generate
-the other file using `create_time_file.py` (which just takes a few minutes).
+the other file using `create_time_file.py` (which takes just a few minutes).
 
 ## Sample scripts
 ```
