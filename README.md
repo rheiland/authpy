@@ -28,7 +28,10 @@ Python 3.4.2 |Anaconda 2.1.0
 ...
 Using matplotlib backend: MacOSX
 
-In [1]: %run histo_time
+In [1]: %run create_time_file
+...
+
+In [2]: %run histo_time
 ```
 ![matplotlib plot of histogram of time events](/images/mpl_authN_histo.png "Interactive matplotlib window: pan, zoom, rubberband, etc")
 
@@ -37,7 +40,7 @@ In [1]: %run histo_time
 ***
 
 ```
-In [2]: %run readG_draw
+In [3]: %run readG_draw
 ```
 After some time, the full graph will be plotted (for what it's worth).
 
@@ -54,7 +57,7 @@ But keep in mind, you can then interactively zoom in on regions of interest:
 ***
 
 ```
-In [2]: %run readG_hub_subgraph
+In [4]: %run readG_hub_subgraph
 ```
 ![hub subgraph](/images/U6677_hub.png "hub subgraph")
 
