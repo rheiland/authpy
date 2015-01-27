@@ -60,3 +60,6 @@ In [2]: %run readG_hub_subgraph
 
 *A hub as a subgraph*
 ***
+
+![hub subgraph](/images/ipynb.png "IPython notebook")
+
