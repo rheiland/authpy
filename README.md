@@ -15,10 +15,8 @@ We begin by generating two files from the original dataset:
 *  `time_secs_binary_f32.dat` - a binary file containing just the time (secs) data (32-bit values)
 *  `auth_graph_adjlist.dat` - an ASCII file containing the global graph (as an adjacency list)
  
-You have two choices for obtaining these two files. The script `create_time_graph_files.py` will
-generate both of them. However, it took about 8 hours on a laptop. The other choice is to simply
-download the graph file from [http://trustedci.org/data](http://trustedci.org/data) and generate
-the other file using `create_time_file.py` (which takes just a few minutes).
+The script `create_time_graph_files.py` will
+generate both of them. However, it took about 8 hours on a laptop. So, the (compressed) global graph file is in the /data directory. The other file (times) can be generated using `create_time_file.py` (which takes just a few minutes).
 
 ## Sample scripts
 ```
